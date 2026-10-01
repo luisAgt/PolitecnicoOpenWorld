@@ -2,7 +2,7 @@
 
 ## 1. Datos del Equipo e Identificación
 - **Nombre:** Luis Angel Agustin
-- **Boleta:** [Tu Boleta Aquí]
+- **Boleta:** 2024630134
 - **Curso:** Aplicaciones para Redes / Ingeniería en Sistemas Computacionales (IPN)
 - **Repositorio Base:** [gabrielhuav/PolitecnicoOpenWorld](https://github.com/gabrielhuav/PolitecnicoOpenWorld)
 - **Fork Propio:** https://github.com/luisAgt/PolitecnicoOpenWorld
@@ -13,7 +13,7 @@
 - **Objetivo:** Implementar reproducción de audio en eventos de victoria, derrota e inicio de ronda en el minijuego.
 - **Alcance:** Modificación del módulo `SoundManager.kt` en la capa de audio Android.
 - **Issue / Bug asignado:** Omisión de audio en efectos de fin de ronda por desfasamiento asíncrono.
-- **Pull Request:** [PEGA AQUÍ LA LIGA DE TU PR CUANDO LO CREES]
+- **Pull Request:** https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/170
 
 ---
 
@@ -31,13 +31,11 @@ Ruta de evidencias almacenadas en el repositorio: `PolitecnicoOpenWorld/app/src/
 
 ## 4. Revisión Técnica y Conversación entre Compañeros
 
-- **Revisor asignado:** [Nombre y usuario de GitHub de tu compañero]
+- **Revisor asignado:** Jesus Angel Gonzalez Arel
 - **Caso reproducido por el revisor:** CP-01 en el SHA entregado.
 - **Observación recibida en GitHub:**
-  > [Copia y pega aquí el comentario que te dejó tu compañero en la línea de código del PR]
-- **Respuesta y justificación técnica brindada:**
-  > [Copia y pega la respuesta que le diste a tu compañero en GitHub]
-- **Enlace a la conversación de revisión:** [Link directo al comentario en tu PR]
+  > Technical review of b33b0dbf66e387db1c5ac0c282f44fada7ddcb6b (head of fix-audio). I read the full diff and built and ran this exact SHA
+- **Enlace a la conversación de revisión:** https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/170#pullrequestreview-5382923375
 
 ---
 
